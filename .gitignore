@@ -1,0 +1,9 @@
+*.ilk
+.vs
+*/obj/*
+*/Properties/*
+*.tlog
+*.log
+*.obj
+
+
